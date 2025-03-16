@@ -130,3 +130,18 @@ C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ModelLayer\obj\Debug\net6.0\
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.AssemblyReference.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.Up2Date
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll

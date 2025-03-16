@@ -11,32 +11,24 @@ namespace HelloGreetingApplication.Controllers
     [Route("api/[controller]")]
     public class AddressBookController : ControllerBase
     {
-        private readonly IAddressBookBL _addressBookBL;
+        private readonly IAddressBookBL _addressBookBL;  // Changed to IAddressBookBL
 
-        public AddressBookController(IAddressBookBL addressBookBL)
+        public AddressBookController(IAddressBookBL addressBookBL)  // Changed to IAddressBookBL
         {
-            _addressBookBL = addressBookBL;
+            _addressBookBL = addressBookBL;  // Injecting IAddressBookBL
         }
 
-        /// <summary>
-        /// GET: api/addressbook
-        /// Fetch all contacts from the address book.
-        /// </summary>
         [HttpGet]
         public ActionResult GetAllContacts()
         {
-            var contacts = _addressBookBL.GetAddresses();
+            var contacts = _addressBookBL.GetAllAddresses();  // Changed to GetAddresses()
             return Ok(contacts);
         }
 
-        /// <summary>
-        /// GET: api/addressbook/{id}
-        /// Get a contact by ID.
-        /// </summary>
         [HttpGet("{id}")]
         public ActionResult GetContactById(int id)
         {
-            var contact = _addressBookBL.GetAddressById(id);
+            var contact = _addressBookBL.GetAddressById(id);  // Changed to GetAddressById()
             if (contact == null)
             {
                 return NotFound($"Contact with ID {id} not found.");
@@ -44,26 +36,18 @@ namespace HelloGreetingApplication.Controllers
             return Ok(contact);
         }
 
-        /// <summary>
-        /// POST: api/addressbook
-        /// Add a new contact to the address book.
-        /// </summary>
         [HttpPost]
-        public ActionResult AddContact( RequestModel contactRequest)
+        public ActionResult AddContact(RequestModel contactRequest)
         {
             if (contactRequest == null)
             {
                 return BadRequest("Invalid contact data.");
             }
 
-            var newContact = _addressBookBL.AddAddress(contactRequest);
+            var newContact = _addressBookBL.AddAddress(contactRequest);  // Changed to AddAddress()
             return CreatedAtAction(nameof(GetContactById), new { id = newContact.Id }, newContact);
         }
 
-        /// <summary>
-        /// PUT: api/addressbook/{id}
-        /// Update a contact in the address book.
-        /// </summary>
         [HttpPut("{id}")]
         public ActionResult UpdateContact(int id, RequestModel contactRequest)
         {
@@ -72,31 +56,25 @@ namespace HelloGreetingApplication.Controllers
                 return BadRequest("Invalid contact data.");
             }
 
-            var updatedContact = _addressBookBL.UpdateAddress(id, contactRequest);
+            var updatedContact = _addressBookBL.UpdateAddress(id, contactRequest);  // Changed to UpdateAddress()
             if (updatedContact == null)
             {
                 return NotFound($"Contact with ID {id} not found.");
             }
 
-            return NoContent(); 
-            // Successful update, but no content to return.
+            return NoContent();
         }
 
-        /// <summary>
-        /// DELETE: api/addressbook/{id}
-        /// Delete a contact from the address book.
-        /// </summary>
         [HttpDelete("{id}")]
         public ActionResult DeleteContact(int id)
         {
-            var deletedContact = _addressBookBL.DeleteAddress(id);
-            if (deletedContact == false)
+            var deletedContact = _addressBookBL.DeleteAddress(id);  // Changed to DeleteAddress()
+            if (!deletedContact)
             {
                 return NotFound($"Contact with ID {id} not found.");
             }
 
-            return NoContent(); 
-            // Successful deletion, no content to return.
+            return NoContent();
         }
     }
 }

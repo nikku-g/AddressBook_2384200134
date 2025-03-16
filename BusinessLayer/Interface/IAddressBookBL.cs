@@ -10,11 +10,11 @@ namespace BusinessLayer.Interface
 {
     public interface IAddressBookBL
     {
-        public List<RequestModel> GetAddresses();
-        public RequestModel GetAddressById(int id);
-        public AddressEntity AddAddress(RequestModel contactRequest);
-        public AddressEntity UpdateAddress(int id, RequestModel contactRequest);
-        public bool DeleteAddress(int id);
+        List<AddressBookDTO> GetAllAddresses();
+        AddressBookDTO GetAddressById(int id);
+        AddressBookDTO AddAddress(RequestModel contactRequest);
+        AddressBookDTO UpdateAddress(int id, RequestModel contactRequest);
+        bool DeleteAddress(int id);
     }
         
 }

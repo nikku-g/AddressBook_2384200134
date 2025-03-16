@@ -154,3 +154,17 @@ C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\ne
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 2\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll

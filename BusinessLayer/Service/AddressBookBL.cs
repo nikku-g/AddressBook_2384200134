@@ -1,4 +1,5 @@
-﻿using BusinessLayer.Interface;
+﻿using AutoMapper;
+using BusinessLayer.Interface;
 using ModelLayer.Model;
 using ReposatoryLayer.Entity;
 using ReposatoryLayer.Interface;
@@ -12,76 +13,43 @@ namespace BusinessLayer.Service
     public class AddressBookBL : IAddressBookBL
     {
         private readonly IAddressBookRL _addressBookRL;
+        private readonly IMapper _mapper;
 
-        public AddressBookBL(IAddressBookRL addressBookRL)
+        public AddressBookBL(IAddressBookRL addressBookRL, IMapper mapper)
         {
             _addressBookRL = addressBookRL;
+            _mapper = mapper;
         }
 
-        // Get all addresses
-        public List<RequestModel> GetAddresses()
+        public List<AddressBookDTO> GetAllAddresses()
         {
             var addresses = _addressBookRL.GetAddresses();
-
-            // Map each AddressEntity to RequestModel
-            return addresses.Select(address => new RequestModel
-            {
-                Street = address.Street,
-                City = address.City,
-                State = address.State,
-                PostalCode = address.PostalCode
-            }).ToList(); // Convert to List<RequestModel>
+            return _mapper.Map<List<AddressBookDTO>>(addresses);
         }
 
-        // Get a specific address by ID
-        public RequestModel GetAddressById(int id)
+        public AddressBookDTO GetAddressById(int id)
         {
             var address = _addressBookRL.GetAddressById(id);
-            if (address == null)
-                return null;
-
-            // Map AddressEntity to RequestModel
-            return new RequestModel
-            {
-                Street = address.Street,
-                City = address.City,
-                State = address.State,
-                PostalCode = address.PostalCode
-            };
+            return address == null ? null : _mapper.Map<AddressBookDTO>(address);
         }
 
-        // Add a new address
-        public AddressEntity AddAddress(RequestModel contactRequest)
+        public AddressBookDTO AddAddress(RequestModel contactRequest)
         {
-            var addressEntity = new AddressEntity
-            {
-                // Map RequestModel to AddressEntity
-                Street = contactRequest.Street,
-                City = contactRequest.City,
-                State = contactRequest.State,
-                PostalCode = contactRequest.PostalCode
-            };
-
-            return _addressBookRL.AddAddress(addressEntity);
+            var addressEntity = _mapper.Map<AddressEntity>(contactRequest);
+            var addedAddress = _addressBookRL.AddAddress(addressEntity);
+            return _mapper.Map<AddressBookDTO>(addedAddress);
         }
 
-        // Update an existing address
-        public AddressEntity UpdateAddress(int id, RequestModel contactRequest)
+        public AddressBookDTO UpdateAddress(int id, RequestModel contactRequest)
         {
             var existingAddress = _addressBookRL.GetAddressById(id);
-            if (existingAddress == null)
-                return null;
+            if (existingAddress == null) return null;
 
-            // Update fields in the existing AddressEntity
-            existingAddress.Street = contactRequest.Street;
-            existingAddress.City = contactRequest.City;
-            existingAddress.State = contactRequest.State;
-            existingAddress.PostalCode = contactRequest.PostalCode;
-
-            return _addressBookRL.UpdateAddress(existingAddress);
+            _mapper.Map(contactRequest, existingAddress);
+            var updatedAddress = _addressBookRL.UpdateAddress(existingAddress);
+            return _mapper.Map<AddressBookDTO>(updatedAddress);
         }
 
-        // Delete an address asynchronously
         public bool DeleteAddress(int id)
         {
             return _addressBookRL.DeleteAddress(id);

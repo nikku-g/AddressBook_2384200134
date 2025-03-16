@@ -1,0 +1,31 @@
+2025-03-06 23:25:55.1314 INFO App is Running 
+2025-03-06 23:26:07.8908 INFO Now listening on: https://localhost:7247 
+2025-03-06 23:26:08.0043 INFO Now listening on: http://localhost:5183 
+2025-03-06 23:26:08.8588 INFO Application started. Press Ctrl+C to shut down. 
+2025-03-06 23:26:08.8588 INFO Hosting environment: Development 
+2025-03-06 23:26:08.8588 INFO Content root path: C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\HelloGreetingApplication\ 
+2025-03-06 23:26:43.8351 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/index.html - - 
+2025-03-06 23:26:47.7906 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/index.html - - - 200 - text/html;charset=utf-8 4004.8435ms 
+2025-03-06 23:26:48.1180 INFO Request starting HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-06 23:26:48.1180 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/index.js - - 
+2025-03-06 23:26:48.1537 INFO Request starting HTTP/2 GET https://localhost:7247/_vs/browserLink - - 
+2025-03-06 23:26:48.1537 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 53.9796ms 
+2025-03-06 23:26:48.2030 INFO Request finished HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - - - 200 12380 application/javascript;+charset=utf-8 84.9379ms 
+2025-03-06 23:26:49.4812 INFO Request finished HTTP/2 GET https://localhost:7247/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 1327.4520ms 
+2025-03-06 23:26:49.6482 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/v1/swagger.json - - 
+2025-03-06 23:26:49.9531 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 304.8734ms 
+2025-03-06 23:27:19.5330 INFO Request starting HTTP/2 POST https://localhost:7247/HelloGreeting/Post Method application/json 43 
+2025-03-06 23:27:19.6370 INFO Executing endpoint 'HelloGreetingApplication.Controllers.HelloGreetingController.Post (HelloGreetingApplication)' 
+2025-03-06 23:27:19.8940 INFO Route matched with {action = "Post", controller = "HelloGreeting"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post(ModelLayer.Model.RequestModel) on controller HelloGreetingApplication.Controllers.HelloGreetingController (HelloGreetingApplication). 
+2025-03-06 23:27:22.4861 INFO Post request| key: 351665, value: 6517+71 
+2025-03-06 23:27:22.5020 INFO Executing OkObjectResult, writing value of type 'ModelLayer.Model.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-03-06 23:27:22.5507 INFO Executed action HelloGreetingApplication.Controllers.HelloGreetingController.Post (HelloGreetingApplication) in 2638.2473ms 
+2025-03-06 23:27:22.5507 INFO Executed endpoint 'HelloGreetingApplication.Controllers.HelloGreetingController.Post (HelloGreetingApplication)' 
+2025-03-06 23:27:22.5762 INFO Request finished HTTP/2 POST https://localhost:7247/HelloGreeting/Post Method application/json 43 - 200 - application/json;+charset=utf-8 3043.1157ms 
+2025-03-06 23:27:36.1521 INFO Request starting HTTP/2 POST https://localhost:7247/HelloGreeting/Post Method application/json 51 
+2025-03-06 23:27:36.1792 INFO Executing endpoint 'HelloGreetingApplication.Controllers.HelloGreetingController.Post (HelloGreetingApplication)' 
+2025-03-06 23:27:36.1848 INFO Route matched with {action = "Post", controller = "HelloGreeting"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Post(ModelLayer.Model.RequestModel) on controller HelloGreetingApplication.Controllers.HelloGreetingController (HelloGreetingApplication). 
+2025-03-06 23:27:38.5346 INFO Executing BadRequestObjectResult, writing value of type 'Microsoft.AspNetCore.Mvc.ValidationProblemDetails'. 
+2025-03-06 23:27:38.5514 INFO Executed action HelloGreetingApplication.Controllers.HelloGreetingController.Post (HelloGreetingApplication) in 2365.8102ms 
+2025-03-06 23:27:38.5618 INFO Executed endpoint 'HelloGreetingApplication.Controllers.HelloGreetingController.Post (HelloGreetingApplication)' 
+2025-03-06 23:27:38.5618 INFO Request finished HTTP/2 POST https://localhost:7247/HelloGreeting/Post Method application/json 51 - 400 - application/problem+json;+charset=utf-8 2412.6874ms 

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "Method": "GetAllContacts",
+    "RelativePath": "api/AddressBook",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "Method": "AddContact",
+    "RelativePath": "api/AddressBook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactRequest",
+        "Type": "ModelLayer.Model.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "Method": "GetContactById",
+    "RelativePath": "api/AddressBook/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "Method": "UpdateContact",
+    "RelativePath": "api/AddressBook/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "contactRequest",
+        "Type": "ModelLayer.Model.RequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "Method": "DeleteContact",
+    "RelativePath": "api/AddressBook/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

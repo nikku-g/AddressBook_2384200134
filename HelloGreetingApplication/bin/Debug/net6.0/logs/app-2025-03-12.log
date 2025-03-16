@@ -1,0 +1,128 @@
+2025-03-12 20:00:38.8749 INFO App is Running 
+2025-03-12 20:00:43.9873 INFO Now listening on: https://localhost:7247 
+2025-03-12 20:00:44.0186 INFO Now listening on: http://localhost:5183 
+2025-03-12 20:00:44.2739 INFO Application started. Press Ctrl+C to shut down. 
+2025-03-12 20:00:44.3483 INFO Hosting environment: Development 
+2025-03-12 20:00:44.4773 INFO Content root path: C:\Users\Nabeel-IT\Desktop\training\pro\UC9\HelloGreetingApplication\ 
+2025-03-12 20:01:22.2597 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger - - 
+2025-03-12 20:01:23.0677 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/index.html - - 
+2025-03-12 20:01:23.0677 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger - - - 301 0 - 816.5704ms 
+2025-03-12 20:01:23.5093 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/index.html - - - 200 - text/html;charset=utf-8 438.8843ms 
+2025-03-12 20:01:23.5379 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/swagger-ui.css - - 
+2025-03-12 20:01:23.5379 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/index.css - - 
+2025-03-12 20:01:23.5379 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/swagger-ui-bundle.js - - 
+2025-03-12 20:01:23.5379 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/swagger-ui-standalone-preset.js - - 
+2025-03-12 20:01:23.5379 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/index.js - - 
+2025-03-12 20:01:23.5379 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 2.1369ms 
+2025-03-12 20:01:23.5379 INFO Request starting HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - - 
+2025-03-12 20:01:23.5611 INFO Request finished HTTP/2 GET https://localhost:7247/_framework/aspnetcore-browser-refresh.js - - - 200 16533 application/javascript;+charset=utf-8 16.5793ms 
+2025-03-12 20:01:23.5777 INFO Sending file. Request path: '/index.css'. Physical path: 'N/A' 
+2025-03-12 20:01:23.6079 INFO Request starting HTTP/2 GET https://localhost:7247/_vs/browserLink - - 
+2025-03-12 20:01:23.7195 INFO Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A' 
+2025-03-12 20:01:23.7195 INFO Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A' 
+2025-03-12 20:01:23.7195 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/index.css - - - 200 202 text/css 194.3942ms 
+2025-03-12 20:01:23.7518 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/swagger-ui-standalone-preset.js - - - 200 229223 application/javascript 211.3511ms 
+2025-03-12 20:01:23.7518 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/swagger-ui.css - - - 200 154948 text/css 213.9473ms 
+2025-03-12 20:01:23.9767 INFO Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A' 
+2025-03-12 20:01:23.9868 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/swagger-ui-bundle.js - - - 200 1466324 application/javascript 447.4829ms 
+2025-03-12 20:01:24.1037 INFO Request finished HTTP/2 GET https://localhost:7247/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 495.7210ms 
+2025-03-12 20:01:24.4706 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/favicon-32x32.png - - 
+2025-03-12 20:01:24.4706 INFO Request starting HTTP/2 GET https://localhost:7247/Swagger/v1/swagger.json - - 
+2025-03-12 20:01:24.4706 INFO Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A' 
+2025-03-12 20:01:24.4706 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/favicon-32x32.png - - - 200 628 image/png 4.9710ms 
+2025-03-12 20:01:24.5018 INFO Request finished HTTP/2 GET https://localhost:7247/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 31.0282ms 
+2025-03-12 21:02:27.1597 INFO App is Running 
+2025-03-12 21:02:28.5947 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:03:06.1438 INFO App is Running 
+2025-03-12 21:03:07.1649 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:04:48.7276 INFO App is Running 
+2025-03-12 21:04:49.7475 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:04:57.0275 INFO App is Running 
+2025-03-12 21:04:58.0397 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:05:46.6986 INFO App is Running 
+2025-03-12 21:05:47.8016 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:05:56.9303 INFO App is Running 
+2025-03-12 21:05:58.0383 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:09:25.3931 INFO App is Running 
+2025-03-12 21:09:26.4369 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:09:42.6594 INFO App is Running 
+2025-03-12 21:09:43.6704 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:13:11.2621 INFO App is Running 
+2025-03-12 21:14:37.3954 INFO App is Running 
+2025-03-12 21:15:35.7416 INFO App is Running 
+2025-03-12 21:15:36.9127 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:15:45.4441 INFO App is Running 
+2025-03-12 21:15:46.4523 INFO Entity Framework Core 6.0.36 initialized 'GreetingContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:15:49.9042 INFO Executed DbCommand (2,377ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+CREATE DATABASE [HelloGreetingApi]; 
+2025-03-12 21:15:51.1719 INFO Executed DbCommand (1,257ms) [Parameters=[], CommandType='Text', CommandTimeout='60']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [HelloGreetingApi] SET READ_COMMITTED_SNAPSHOT ON;
+END; 
+2025-03-12 21:15:51.2521 INFO Executed DbCommand (27ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2025-03-12 21:15:51.7393 INFO Executed DbCommand (128ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+); 
+2025-03-12 21:15:51.7464 INFO Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2025-03-12 21:15:51.8207 INFO Executed DbCommand (46ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]'); 
+2025-03-12 21:15:52.2780 INFO Executed DbCommand (451ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2025-03-12 21:15:52.3059 INFO Applying migration '20250304200107_InitialMigration'. 
+2025-03-12 21:15:52.5053 INFO Executed DbCommand (109ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [GreetingMessages] (
+    [Id] int NOT NULL IDENTITY,
+    [Message] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_GreetingMessages] PRIMARY KEY ([Id])
+); 
+2025-03-12 21:15:52.5053 INFO Executed DbCommand (3ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250304200107_InitialMigration', N'6.0.36'); 
+2025-03-12 21:15:52.5202 INFO Applying migration '20250312153449_initial-migration'. 
+2025-03-12 21:15:52.5202 INFO Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250312153449_initial-migration', N'6.0.36'); 
+2025-03-12 21:15:52.5202 INFO Applying migration '20250312153926_Intial-Migration'. 
+2025-03-12 21:15:52.5202 INFO Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250312153926_Intial-Migration', N'6.0.36'); 
+2025-03-12 21:36:38.2492 INFO App is Running 
+2025-03-12 21:38:57.2742 INFO App is Running 
+2025-03-12 21:38:58.5003 INFO Entity Framework Core 6.0.36 initialized 'AddressContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:40:19.0995 INFO App is Running 
+2025-03-12 21:40:20.1263 INFO Entity Framework Core 6.0.36 initialized 'AddressContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:40:43.8903 INFO App is Running 
+2025-03-12 21:40:44.9080 INFO Entity Framework Core 6.0.36 initialized 'AddressContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None 
+2025-03-12 21:40:45.9087 INFO Executed DbCommand (23ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2025-03-12 21:40:46.0296 INFO Executed DbCommand (92ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]'); 
+2025-03-12 21:40:46.0392 INFO Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1 
+2025-03-12 21:40:46.0392 INFO Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]'); 
+2025-03-12 21:40:46.1479 INFO Executed DbCommand (31ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId]; 
+2025-03-12 21:40:46.1848 INFO Applying migration '20250312161020_Initial-Migration'. 
+2025-03-12 21:40:46.3074 INFO Executed DbCommand (49ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+CREATE TABLE [AddressEntities] (
+    [Id] int NOT NULL IDENTITY,
+    [Street] nvarchar(max) NOT NULL,
+    [City] nvarchar(max) NOT NULL,
+    [State] nvarchar(max) NOT NULL,
+    [PostalCode] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_AddressEntities] PRIMARY KEY ([Id])
+); 
+2025-03-12 21:40:46.3146 INFO Executed DbCommand (6ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20250312161020_Initial-Migration', N'6.0.36'); 

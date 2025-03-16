@@ -1,0 +1,204 @@
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\Business.EA331CBA.Up2Date
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll

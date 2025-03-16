@@ -1,0 +1,156 @@
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\HelloGreetingApplication\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\New folder\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC2\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC3\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC4 - Copy\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC5 - Copy\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC6 - Copy\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC8\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\NIKHIL PRATAP\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\UC9\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.deps.json
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.runtimeconfig.json
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\bin\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.AssemblyReference.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfoInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.AssemblyInfo.cs
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\refint\ReposatoryLayer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.pdb
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ReposatoryLayer.genruntimeconfig.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\ReposatoryLayer\obj\Debug\net6.0\ref\ReposatoryLayer.dll

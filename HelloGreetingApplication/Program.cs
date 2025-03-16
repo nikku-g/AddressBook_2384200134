@@ -2,75 +2,132 @@ using BusinessLayer.Interface;
 using BusinessLayer.Service;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.IdentityModel.Tokens;
+using ModelLayer.Validators;
+using RabbitMQ.Client;
 using ReposatoryLayer.Context;
 using ReposatoryLayer.Interface;
 using ReposatoryLayer.Service;
-using FluentValidation.AspNetCore;
-using RabbitMQ.Client;
-using ModelLayer.Validators;
-using Microsoft.IdentityModel.Tokens;
-using Microsoft.Extensions.Caching.Distributed;
 using StackExchange.Redis;
-using System.Text; // Required for FluentValidation
+using System.Text;
+using Microsoft.OpenApi.Models;
+using FluentValidation.AspNetCore;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configure RabbitMQ
 builder.Services.AddSingleton<IConnectionFactory>(sp =>
 {
     var config = builder.Configuration.GetSection("RabbitMQ");
-    var factory = new ConnectionFactory()
+    return new ConnectionFactory()
     {
         HostName = config["HostName"],
         Port = int.Parse(config["Port"]),
         UserName = config["Username"],
         Password = config["Password"]
     };
-    return factory;
 });
 
+// Configure Redis
 builder.Services.AddStackExchangeRedisCache(options =>
 {
-    options.Configuration = builder.Configuration["Redis:ConnectionString"]; // Example: localhost:6379
+    options.Configuration = builder.Configuration["Redis:ConnectionString"];
     options.InstanceName = "AddressBookApp:";
 });
 
-
-builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
-{
-    options.TokenValidationParameters = new TokenValidationParameters
+// Configure Authentication
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
     {
-        ValidateIssuer = true,
-        ValidateAudience = true,
-        ValidateLifetime = true,
-        ValidateIssuerSigningKey = true,
-        ValidIssuer = builder.Configuration["Jwt:Issuer"],
-        ValidAudience = builder.Configuration["Jwt:Audience"],
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"]))
-    };
-});
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidateLifetime = true,
+            ValidateIssuerSigningKey = true,
+            ValidIssuer = builder.Configuration["Jwt:Issuer"],
+            ValidAudience = builder.Configuration["Jwt:Audience"],
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:SecretKey"]))
+        };
+    });
 
-// Register services
+// Register Services
 builder.Services.AddScoped<IAuthService, AuthService>();
-
-// Register the DbContext with the DI container
 builder.Services.AddScoped<IAddressBookService, AddressBookService>();
 builder.Services.AddScoped<IAddressBookRL, AddressBookRL>();
 builder.Services.AddScoped<IEmailService, EmailService>();
-var connectionString = builder.Configuration.GetConnectionString("SqlConnection");  // Make sure this key matches the key in appsettings.json
+
+// Configure Database Context
+var connectionString = builder.Configuration.GetConnectionString("SqlConnection");
 builder.Services.AddDbContext<AddressContext>(options => options.UseSqlServer(connectionString));
 
-// Register controllers (important to add first before FluentValidation)
+// Register Controllers
 builder.Services.AddControllers();
 
-// Register FluentValidation with the correct assembly containing the validators
+// Register FluentValidation
 builder.Services.AddFluentValidation(cfg => cfg.RegisterValidatorsFromAssemblyContaining<RequestModelValidator>());
 
-// Register AutoMapper (ensure you have an AddressMapping profile)
+// Register AutoMapper
 builder.Services.AddAutoMapper(typeof(AddressMapping));
+
+// Configure Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen(options =>
+{
+    options.SwaggerDoc("v1", new OpenApiInfo
+    {
+        Title = "Address Book API",
+        Version = "v1",
+        Description = "API documentation for Address Book application"
+    });
+
+    options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+    {
+        Name = "Authorization",
+        Type = SecuritySchemeType.Http,
+        Scheme = "Bearer",
+        BearerFormat = "JWT",
+        In = ParameterLocation.Header,
+        Description = "Enter your JWT token in the format: Bearer {your_token}"
+    });
+
+    options.AddSecurityRequirement(new OpenApiSecurityRequirement
+    {
+        {
+            new OpenApiSecurityScheme
+            {
+                Reference = new OpenApiReference
+                {
+                    Type = ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            new string[] {}
+        }
+    });
+
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+    options.IncludeXmlComments(xmlPath);
+});
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-app.MapControllers();
+// Configure Middleware
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Address Book API V1");
+        c.RoutePrefix = string.Empty;
+    });
+}
 
+app.UseAuthentication();
+app.UseAuthorization();
+
+app.MapControllers();
 app.Run();

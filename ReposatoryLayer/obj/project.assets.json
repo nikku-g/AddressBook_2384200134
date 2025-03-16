@@ -2050,11 +2050,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 3\\ReposatoryLayer\\ReposatoryLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 4\\ReposatoryLayer\\ReposatoryLayer.csproj",
       "projectName": "ReposatoryLayer",
-      "projectPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 3\\ReposatoryLayer\\ReposatoryLayer.csproj",
+      "projectPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 4\\ReposatoryLayer\\ReposatoryLayer.csproj",
       "packagesPath": "C:\\Users\\Nabeel-IT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 3\\ReposatoryLayer\\obj\\",
+      "outputPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 4\\ReposatoryLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

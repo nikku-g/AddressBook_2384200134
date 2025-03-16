@@ -1,8 +1,10 @@
 ﻿using AutoMapper;
 using BCrypt.Net;
 using BusinessLayer.Interface;
+using BusinessLayer.Messaging;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
+using ModelLayer.Event;
 using ModelLayer.Model;
 using ReposatoryLayer.Entity;
 using ReposatoryLayer.Interface;
@@ -27,6 +29,19 @@ namespace BusinessLayer.Service
             _mapper = mapper;
             _configuration = configuration;
             _emailService = emailService;
+        }
+
+        public void RegisterUser(UserDTO userDto)
+        {
+            // Registration logic
+            var userRegisteredEvent = new UserRegisteredEvent
+            {
+                Email = userDto.Email,
+                Name = userDto.Username
+            };
+
+            var publisher = new RabbitMQPublisher();
+            publisher.Publish(userRegisteredEvent, "user.registered");
         }
 
         public async Task<string> ForgotPasswordAsync(string email)

@@ -283,3 +283,13 @@ C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 3\HelloGreetingApplicati
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 3\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.genruntimeconfig.cache
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 3\HelloGreetingApplication\obj\Debug\net6.0\ref\AddressBookApplication.dll
 C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 3\HelloGreetingApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.csproj.AssemblyReference.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.AssemblyInfoInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.AssemblyInfo.cs
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.csproj.CoreCompileInputs.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\refint\AddressBookApplication.dll
+C:\Users\Nabeel-IT\Desktop\training\pro\AddressBook\Sec 4\HelloGreetingApplication\obj\Debug\net6.0\AddressBookApplication.pdb

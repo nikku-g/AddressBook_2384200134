@@ -3590,11 +3590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 4\\HelloGreetingApplication\\AddressBookApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 5\\HelloGreetingApplication\\AddressBookApplication.csproj",
       "projectName": "AddressBookApplication",
-      "projectPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 4\\HelloGreetingApplication\\AddressBookApplication.csproj",
+      "projectPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 5\\HelloGreetingApplication\\AddressBookApplication.csproj",
       "packagesPath": "C:\\Users\\Nabeel-IT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 4\\HelloGreetingApplication\\obj\\",
+      "outputPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 5\\HelloGreetingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3615,8 +3615,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 4\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 4\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 5\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 5\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }

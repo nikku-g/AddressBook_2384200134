@@ -14,6 +14,11 @@ namespace ReposatoryLayer.Interface
         public AddressEntity AddAddress(AddressEntity addressEntity);
         public AddressEntity UpdateAddress(AddressEntity addressEntity);
         public bool DeleteAddress(int id);
+        public UserEntity AddAddress(UserEntity userEntity);
+        public List<UserEntity> GetAddresse();
+        public UserEntity UpdateAddress(UserEntity userEntity);
+
+
 
     }
 }

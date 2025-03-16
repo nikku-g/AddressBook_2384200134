@@ -52,5 +52,21 @@ namespace ReposatoryLayer.Service
             _context.SaveChanges();
             return true;
         }
+        public UserEntity AddAddress(UserEntity userEntity)
+        {
+            _context.UserEntities.Add(userEntity);
+            _context.SaveChanges();
+            return userEntity;
+        }
+        public List<UserEntity> GetAddresse()
+        {
+            return _context.UserEntities.ToList();
+        }
+        public UserEntity UpdateAddress(UserEntity userEntity)
+        {
+            _context.UserEntities.Update(userEntity);
+            _context.SaveChanges();
+            return userEntity;
+        }
     }
 }

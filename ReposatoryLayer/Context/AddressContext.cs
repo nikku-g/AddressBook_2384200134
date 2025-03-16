@@ -14,5 +14,7 @@ namespace ReposatoryLayer.Context
 
         // DbSet for GreetingMessage entity
         public DbSet<AddressEntity> AddressEntities { get; set; }
+        public DbSet<UserEntity> UserEntities { get; set; }
+
     }
 }

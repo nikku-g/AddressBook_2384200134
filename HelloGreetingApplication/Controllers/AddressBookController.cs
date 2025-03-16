@@ -5,15 +5,15 @@ using ReposatoryLayer.Entity;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace HelloGreetingApplication.Controllers
+namespace AddressBookApplication.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
     public class AddressBookController : ControllerBase
     {
-        private readonly IAddressBookBL _addressBookBL;  // Changed to IAddressBookBL
+        private readonly IAddressBookService _addressBookBL;  // Changed to IAddressBookBL
 
-        public AddressBookController(IAddressBookBL addressBookBL)  // Changed to IAddressBookBL
+        public AddressBookController(IAddressBookService addressBookBL)  // Changed to IAddressBookBL
         {
             _addressBookBL = addressBookBL;  // Injecting IAddressBookBL
         }
@@ -36,7 +36,7 @@ namespace HelloGreetingApplication.Controllers
             return Ok(contact);
         }
 
-        [HttpPost]
+        [HttpPost("{ID}")]
         public ActionResult AddContact(RequestModel contactRequest)
         {
             if (contactRequest == null)

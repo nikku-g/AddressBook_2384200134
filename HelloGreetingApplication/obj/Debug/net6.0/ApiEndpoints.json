@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
     "Method": "GetAllContacts",
     "RelativePath": "api/AddressBook",
     "HttpMethod": "GET",
@@ -10,23 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
-    "Method": "AddContact",
-    "RelativePath": "api/AddressBook",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "contactRequest",
-        "Type": "ModelLayer.Model.RequestModel",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
     "Method": "GetContactById",
     "RelativePath": "api/AddressBook/{id}",
     "HttpMethod": "GET",
@@ -42,7 +26,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
     "Method": "UpdateContact",
     "RelativePath": "api/AddressBook/{id}",
     "HttpMethod": "PUT",
@@ -63,7 +47,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "HelloGreetingApplication.Controllers.AddressBookController",
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
     "Method": "DeleteContact",
     "RelativePath": "api/AddressBook/{id}",
     "HttpMethod": "DELETE",
@@ -73,6 +57,59 @@
       {
         "Name": "id",
         "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AddressBookApplication.Controllers.AddressBookController",
+    "Method": "AddContact",
+    "RelativePath": "api/AddressBook/{ID}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contactRequest",
+        "Type": "ModelLayer.Model.RequestModel",
+        "IsRequired": true
+      },
+      {
+        "Name": "ID",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelloGreetingApplication.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userLoginDTO",
+        "Type": "ModelLayer.Model.UserLoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HelloGreetingApplication.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userRegistrationDTO",
+        "Type": "ModelLayer.Model.UserRegistrationDTO",
         "IsRequired": true
       }
     ],

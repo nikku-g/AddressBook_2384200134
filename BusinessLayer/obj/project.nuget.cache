@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rkbPmPGR0g8=",
+  "dgSpecHash": "l4Ob8Dtcyqo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 2\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Nabeel-IT\\Desktop\\training\\pro\\AddressBook\\Sec 3\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nabeel-IT\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Nabeel-IT\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Nabeel-IT\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\Nabeel-IT\\.nuget\\packages\\fluentvalidation\\8.0.100\\fluentvalidation.8.0.100.nupkg.sha512",
     "C:\\Users\\Nabeel-IT\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.0.100\\fluentvalidation.aspnetcore.8.0.100.nupkg.sha512",
     "C:\\Users\\Nabeel-IT\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.1.0\\microsoft.aspnetcore.antiforgery.2.1.0.nupkg.sha512",
